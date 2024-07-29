@@ -25,7 +25,7 @@ function Add() {
       }
   }
    );
-   const [id, setId] = useState([]);
+  //  const [id, setId] = useState([]);
    const [data,setData] = useState([]);
    const naviget = useNavigate();
 
